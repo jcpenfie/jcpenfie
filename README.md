@@ -17,7 +17,7 @@
 ### ⚙️ &nbsp;Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,spring,vscode,supabase,java,php,python,javascript,hibernate,mysql,mongodb,astro,laravel,js,html,sass,css,bootstrap,tailwind,angular,kotlin,androidstudio,jenkins,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,git,vscode,python,html,css,tailwind,postgres,java,spring,angular,mongodb,mysql,php,laravel,supabase,postman,sass,bootstrap,hibernate,kotlin,androidstudio,astro,jenkins" />
   </a>
 </p>
 
