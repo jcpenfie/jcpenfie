@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I'm Juan Carlos  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img alt="Banner" src="https://raw.githubusercontent.com/jcpenfie/jcpenfie/refs/heads/main/Banner.png" align="right"/>
+<img alt="Banner" src="https://raw.githubusercontent.com/jcpenfie/jcpenfie/refs/heads/main/Banner.avif" align="right"/>
 &nbsp;
 <p align="center">
   <a href="https://www.youtube.com/@JohnnyFinchDev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@JohnnyFinchDev"  /></a>
