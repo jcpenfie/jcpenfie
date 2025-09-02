@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Juan Carlos  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img alt="Banner" src="https://raw.githubusercontent.com/jcpenfie/jcpenfie/refs/heads/main/Banner.png" align="right"/>
-
+&nbsp;
 <p align="center">
   <a href="https://www.youtube.com/@JohnnyFinchDev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@JohnnyFinchDev"  /></a>
 <a href="linkedin.com/in/juan-carlos-peña-fierro/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jcpenfie"/></a>
@@ -17,7 +17,7 @@
 ### ⚙️ &nbsp;Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,git,vscode,python,html,css,tailwind,postgres,java,spring,angular,mongodb,mysql,php,laravel,supabase,postman,sass,bootstrap,hibernate,kotlin,androidstudio,astro,jenkins" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,github,gitlab,vscode,spring,html,css,tailwind,postgres,java,python,angular,mongodb,mysql,php,laravel,supabase,postman,sass,bootstrap,hibernate,kotlin,androidstudio,astro,jenkins,wordpress,devto,docker,figma" />
   </a>
 </p>
 
